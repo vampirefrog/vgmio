@@ -1,0 +1,3 @@
+[submodule "streamlib"]
+	path = streamlib
+	url = https://github.com/vampirefrog/streamlib.git
