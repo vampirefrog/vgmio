@@ -18,6 +18,6 @@ jobs:
         with:
           msystem: MINGW64
           update: true
-          install: git make
+          install: git make mingw64/mingw-w64-x86_64-gcc
       - name: Make
         run: make
